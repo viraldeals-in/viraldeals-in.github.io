@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- ========== PINTEREST CLAIM TAG ========== -->
+  <!-- Replace YOUR_PINTEREST_VERIFICATION_CODE with the code Pinterest gives you -->
+  <meta name="p:domain_verify" content="YOUR_PINTEREST_VERIFICATION_CODE"/>
+  <!-- ========================================= -->
+  
+  <title>ViralDeals - Trending Amazon Finds Under ₹999</title>
+  <meta name="description" content="Discover handpicked trending products from Amazon India. Best deals on electronics, home, fashion, and more. Updated daily.">
+  
+  <!-- Open Graph for social sharing -->
+  <meta property="og:title" content="ViralDeals - Trending Amazon Finds">
+  <meta property="og:description" content="Handpicked trending products from Amazon India, updated daily.">
+  <meta property="og:type" content="website">
+  
+  <link rel="alternate" type="application/rss+xml" title="ViralDeals RSS Feed" href="/feed.xml">
+  
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      line-height: 1.6;
+      color: #2d2d2d;
+      background: linear-gradient(135deg, #fef3f8 0%, #fef9f3 100%);
+      min-height: 100vh;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    header {
+      text-align: center;
+      padding: 60px 20px 40px;
+    }
+    header h1 {
+      font-size: 3em;
+      color: #c8246c;
+      margin-bottom: 10px;
+      font-weight: 800;
+    }
+    header p {
+      font-size: 1.2em;
+      color: #666;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    .badge {
+      display: inline-block;
+      background: #c8246c;
+      color: white;
+      padding: 6px 16px;
+      border-radius: 20px;
+      font-size: 0.85em;
+      margin-bottom: 20px;
+      font-weight: 600;
+    }
+    .categories {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+      margin: 40px 0;
+    }
+    .category-card {
+      background: white;
+      padding: 30px 20px;
+      border-radius: 16px;
+      text-align: center;
+      box-shadow: 0 4px 12px rgba(200, 36, 108, 0.08);
+      transition: transform 0.2s, box-shadow 0.2s;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+    }
+    .category-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 20px rgba(200, 36, 108, 0.15);
+    }
+    .category-icon {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    .category-card h3 {
+      font-size: 1.1em;
+      color: #2d2d2d;
+    }
+    .featured {
+      background: white;
+      padding: 40px;
+      border-radius: 20px;
+      margin: 40px 0;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    }
+    .featured h2 {
+      color: #c8246c;
+      margin-bottom: 20px;
+      font-size: 1.8em;
+    }
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 30px;
+      margin-top: 30px;
+    }
+    .info-item h4 {
+      color: #c8246c;
+      margin-bottom: 8px;
+      font-size: 1.1em;
+    }
+    footer {
+      text-align: center;
+      padding: 40px 20px;
+      color: #888;
+      font-size: 0.9em;
+    }
+    footer a { color: #c8246c; text-decoration: none; }
+    .disclosure {
+      max-width: 700px;
+      margin: 30px auto 0;
+      padding: 20px;
+      background: rgba(255,255,255,0.6);
+      border-radius: 12px;
+      font-size: 0.85em;
+      color: #666;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <span class="badge">✨ Updated Daily</span>
+      <h1>ViralDeals</h1>
+      <p>Handpicked trending products from Amazon India. Find the best deals on what people are actually buying right now.</p>
+    </header>
+
+    <div class="categories">
+      <a href="#electronics" class="category-card">
+        <div class="category-icon">📱</div>
+        <h3>Electronics</h3>
+      </a>
+      <a href="#home-kitchen" class="category-card">
+        <div class="category-icon">🏠</div>
+        <h3>Home & Kitchen</h3>
+      </a>
+      <a href="#beauty" class="category-card">
+        <div class="category-icon">💄</div>
+        <h3>Beauty</h3>
+      </a>
+      <a href="#fashion" class="category-card">
+        <div class="category-icon">👗</div>
+        <h3>Fashion</h3>
+      </a>
+      <a href="#books" class="category-card">
+        <div class="category-icon">📚</div>
+        <h3>Books</h3>
+      </a>
+      <a href="#sports" class="category-card">
+        <div class="category-icon">⚽</div>
+        <h3>Sports</h3>
+      </a>
+    </div>
+
+    <div class="featured">
+      <h2>Why ViralDeals?</h2>
+      <p style="color: #555;">We track Amazon India's bestseller lists every single day to surface the products people are loving right now. No fluff, no outdated picks — just what's trending today.</p>
+      
+      <div class="info-grid">
+        <div class="info-item">
+          <h4>🔥 Daily Updates</h4>
+          <p style="color: #666;">Fresh products added every day from Amazon India's bestseller charts.</p>
+        </div>
+        <div class="info-item">
+          <h4>💯 Top Rated</h4>
+          <p style="color: #666;">Only products with 4+ stars and verified reviews make our list.</p>
+        </div>
+        <div class="info-item">
+          <h4>📌 Pinterest First</h4>
+          <p style="color: #666;">Follow our Pinterest for daily inspiration and shopping ideas.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="disclosure">
+      <strong>Affiliate Disclosure:</strong> ViralDeals is a participant in the Amazon Associates Program. As an Amazon Associate, we earn from qualifying purchases. The price you pay is the same; we just receive a small commission that helps us keep this site running. Thank you for supporting us!
+    </div>
+
+    <footer>
+      <p>© 2026 ViralDeals · <a href="/feed.xml">RSS Feed</a> · <a href="https://pinterest.com">Follow on Pinterest</a></p>
+      <p style="margin-top: 10px; font-size: 0.85em;">All product names, logos, and brands are property of their respective owners.</p>
+    </footer>
+  </div>
+</body>
+</html>

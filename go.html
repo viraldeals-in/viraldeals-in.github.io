@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <!-- Pinterest claim tag (same as homepage) -->
+  <meta name="p:domain_verify" content="YOUR_PINTEREST_VERIFICATION_CODE"/>
+  
+  <title>Redirecting to Amazon...</title>
+  
+  <!-- 
+    SEO note: noindex this page so Google doesn't index redirect pages.
+    Pinterest still reads it because Pinterest crawlers respect the meta tag for verification but follow redirects for clicks.
+  -->
+  <meta name="robots" content="noindex, follow">
+  
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      margin: 0;
+      background: linear-gradient(135deg, #fef3f8 0%, #fef9f3 100%);
+    }
+    .container {
+      text-align: center;
+      padding: 40px;
+      background: white;
+      border-radius: 20px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      max-width: 400px;
+    }
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 4px solid #f3f3f3;
+      border-top: 4px solid #c8246c;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 20px;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    h2 { color: #c8246c; margin-bottom: 10px; }
+    p { color: #666; }
+    a { color: #c8246c; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="spinner"></div>
+    <h2>Taking you to Amazon...</h2>
+    <p>You'll be redirected in a moment.</p>
+    <p style="margin-top: 20px; font-size: 0.85em;">
+      If nothing happens, <a id="manual-link" href="https://www.amazon.in/">click here</a>.
+    </p>
+  </div>
+
+  <script>
+    // ========== AFFILIATE TAG ==========
+    const AFFILIATE_TAG = 'viraldeals02-21';
+    // ===================================
+    
+    // Extract ASIN from URL: /go/B09G9BL5CP -> B09G9BL5CP
+    const path = window.location.pathname;
+    const asinMatch = path.match(/\/go\/([A-Z0-9]{10})/i);
+    
+    let targetUrl = 'https://www.amazon.in/';
+    
+    if (asinMatch) {
+      const asin = asinMatch[1].toUpperCase();
+      targetUrl = `https://www.amazon.in/dp/${asin}/?tag=${AFFILIATE_TAG}`;
+    }
+    
+    // Update manual link
+    document.getElementById('manual-link').href = targetUrl;
+    
+    // Auto-redirect after 800ms (gives the page time to load + Pinterest analytics to fire)
+    setTimeout(() => {
+      window.location.replace(targetUrl);
+    }, 800);
+  </script>
+</body>
+</html>
