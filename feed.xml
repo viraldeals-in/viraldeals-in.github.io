@@ -2,33 +2,263 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ViralDeals - Trending Amazon Finds</title>
-    <link>https://YOUR_GITHUB_USERNAME.github.io/</link>
-    <atom:link href="https://YOUR_GITHUB_USERNAME.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Daily trending products handpicked from Amazon India bestsellers.</description>
+    <link>https://viraldeals-in.github.io/</link>
+    <atom:link href="https://viraldeals-in.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Daily handpicked trending products from Amazon India.</description>
     <language>en-in</language>
-    <lastBuildDate>Sat, 25 Apr 2026 12:00:00 +0530</lastBuildDate>
-    
-    <!-- 
-      This is a placeholder feed. n8n will overwrite this file via GitHub API
-      with real product items. Each item Pinterest sees will look like:
-      
-      <item>
-        <title>Product Title</title>
-        <description>Pin description with hashtags</description>
-        <link>https://yoursite.github.io/go/B09G9BL5CP</link>
-        <pubDate>Sat, 25 Apr 2026 12:00:00 +0530</pubDate>
-        <guid>B09G9BL5CP</guid>
-        <media:content url="https://image.pollinations.ai/..." medium="image"/>
-      </item>
-    -->
-    
+    <lastBuildDate>Tue, 28 Apr 2026 15:34:42 +0000</lastBuildDate>
     <item>
-      <title>Welcome to ViralDeals RSS</title>
-      <description>This is a placeholder. Real products will appear here once n8n syncs.</description>
-      <link>https://YOUR_GITHUB_USERNAME.github.io/</link>
-      <pubDate>Sat, 25 Apr 2026 12:00:00 +0530</pubDate>
-      <guid>welcome-placeholder</guid>
+      <title>Must-Have Garbage Bags 🚮</title>
+      <description>Keep your home clean and hygienic with Presto! Garbage Bags. These medium-sized bags are perfect for dry and wet waste, and the 180-count pack ensures you never run out. Worth buying for their durability and leak-proof design. Buy now on Amazon! 
+
+home essentials, kitchen storage, garbage bags, home cleaning, waste management, affordable home decor, home organization, household items, kitchen must haves, home care</description>
+      <link>https://viraldeals-in.github.io/go/B0821PN8L4</link>
+      <guid isPermaLink="false">B0821PN8L4-1777390482414</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/61fn1xtHO4L._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/61fn1xtHO4L._SL1500_.jpg" type="image/jpeg" />
     </item>
-    
+    <item>
+      <title>Must-Have Fresh Roses 💐</title>
+      <description>Add a touch of elegance to your home decor with these beautiful fresh assorted roses. Perfect for any occasion, they are a worth buying item to brighten up your space. Get the best quality roses at an affordable price, check the price on Amazon now!
+
+home decor items under 999 fresh roses bouquet gift ideas summer decor must have flowers home decoration affordable home decor</description>
+      <link>https://viraldeals-in.github.io/go/B0FQ5JVLL8</link>
+      <guid isPermaLink="false">B0FQ5JVLL8-1777390482414</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/61tZVx+LpKL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/61tZVx+LpKL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Must-Have Garbage Bags 🚮</title>
+      <description>Get the best garbage bags for your home with Ezee Live Life Ezee Way Black Garbage Bags. Durable, leak-proof, and easy to use. Perfect for keeping your home clean and hygienic. Buy now and get 3 packs of 30 medium-sized bags. Worth buying for a clutter-free home!
+
+home essentials india affordable home decor home cleaning tips kitchen must haves home organization ideas indian home decor garbage bags online</description>
+      <link>https://viraldeals-in.github.io/go/B06VX8YR6Q</link>
+      <guid isPermaLink="false">B06VX8YR6Q-1777390482414</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/71erHCKJ3WL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/71erHCKJ3WL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Worth Buying: 500W Juicer Mixer Grinder 🍹</title>
+      <description>Stay cool and healthy this summer with NutriPro&apos;s powerful 500W juicer mixer grinder. Make smoothies, juices, and more with ease. Affordable and durable, it&apos;s a must-have for every kitchen. Buy now and get a 2-year warranty! Perfect for making summer coolers.
+
+home appliances india best juicer mixer grinder kitchen essentials summer coolers affordable kitchen gadgets indian kitchen must haves home decor under 2000</description>
+      <link>https://viraldeals-in.github.io/go/B09J2T124D</link>
+      <guid isPermaLink="false">B09J2T124D-1777390482414</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/71rH4vEE4nL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/71rH4vEE4nL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Must-have Kitchen Scale 🍳</title>
+      <description>Upgrade your cooking game with the ATOM ALISTON K1 Series Digital Kitchen Weighing Scale, perfect for precision baking and cooking. Get accurate measurements with its 10kg capacity and LCD display. Worth buying for any home chef, this scale is a great addition to your kitchen essentials. Buy now and take your cooking to the next level! With its affordable price of ₹230.00, it&apos;s a deal you won&apos;t want to miss.
+
+kitchen essentials home decor items under 999 kitchen scales digital weighing scale coo</description>
+      <link>https://viraldeals-in.github.io/go/B083C6XMKQ</link>
+      <guid isPermaLink="false">B083C6XMKQ-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/71775fRr+gL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/71775fRr+gL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Must-Have Door Guard 🚪</title>
+      <description>Reduce noise and sound-proof your home with Raxon Innovation&apos;s PVC Door Guard. Affordable and easy to install, this gap filler is a must-have for any homeowner. Get yours now and stay cool at home! 💰₹188.00, 4-star rated with 13270 reviews. Click to buy!
+
+home decor items under 999 home essentials door guard sound proofing noise reduction home improvement affordable home decor</description>
+      <link>https://viraldeals-in.github.io/go/B0983PRR2Z</link>
+      <guid isPermaLink="false">B0983PRR2Z-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/61ejfP6n1KL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/61ejfP6n1KL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Best AC Stand Under ₹500 🌞</title>
+      <description>Stay cool this summer with a robust AC stand that supports up to 200kg weight. Made of rust-proof iron, it&apos;s a must-have for your air conditioner outdoor unit. Get this heavy duty mounting bracket now and beat the heat! Worth buying for its durability and affordability.
+
+Home Decor Items Under 999 Summer Essentials Beat The Heat AC Stand Heavy Duty Mounting Bracket Rust Proof Iron Air Conditioner Outdoor Unit Stay Cool Affordable Home Decor</description>
+      <link>https://viraldeals-in.github.io/go/B0DX77JM71</link>
+      <guid isPermaLink="false">B0DX77JM71-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/61wn++dqhEL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/61wn++dqhEL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Best Facial Wash Under ₹200 🌸</title>
+      <description>Stay cool and refreshed this summer with Simple Kind to Skin Refreshing Facial Wash! This 100% soap-free gentle cleanser is perfect for all skin types. Enriched with Vitamin E &amp; Glycerin, it effectively cleanses and moisturizes your skin. Worth buying for a refreshing summer skincare routine. Shop now and beat the heat with a gentle, non-irritating face wash!
+
+summer skincare routine facial wash soap free gentle cleanser vitamin e glycerin skin care products skincare essentials best facial wash</description>
+      <link>https://viraldeals-in.github.io/go/B0CKF48RRR</link>
+      <guid isPermaLink="false">B0CKF48RRR-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/51FQerCM8yL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/51FQerCM8yL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Best Sunscreen Under ₹300 🌞</title>
+      <description>Stay protected from the sun with The Derma Co 1% Hyaluronic Sunscreen Aqua Gel SPF 50 PA++++. This hydrating, lightweight, and non-greasy sunscreen is a must-have for summer. With its broad spectrum protection, it&apos;s worth buying for everyday use. Click to buy now and beat the heat!
+
+sunscreen lotion summer essentials sun protection skincare tips affordable skincare indian skincare summer coolers beauty products</description>
+      <link>https://viraldeals-in.github.io/go/B0C6M3KHXV</link>
+      <guid isPermaLink="false">B0C6M3KHXV-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/51AvlsTFuTL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/51AvlsTFuTL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Worth Buying: Gentle Face Wash 🌸</title>
+      <description>Stay cool and hydrated this summer with Cetaphil Gentle Skin Hydrating Face Wash, a paraben-free and sulphate-free cleanser that actually works. Enriched with Niacinamide, it provides long-lasting hydration. Try it today and beat the heat with healthy, glowing skin! Buy now on Amazon
+
+Beauty Essentials Summer Skincare Gentle Face Wash Paraben Free Sulphate Free Niacinamide Skin Hydrating Cleanser Affordable Skincare</description>
+      <link>https://viraldeals-in.github.io/go/B01CCGW4OE</link>
+      <guid isPermaLink="false">B01CCGW4OE-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/61Ti2uv6V3L._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/61Ti2uv6V3L._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Must-have Sunscreen! 🌞</title>
+      <description>Stay protected from the sun with this lightweight Deconstruct Gel Sunscreen for Oily skin, offering 100% photostable protection with SPF 50 PA++++. It&apos;s a worthwhile investment for summer essentials. Buy now and beat the heat with the best sunscreen lotion for your skin type!
+
+sun protection summer essentials oily skin sunscreen spf 50 pa++++ photostable skincare must have beauty picks</description>
+      <link>https://viraldeals-in.github.io/go/B0B45RB1RV</link>
+      <guid isPermaLink="false">B0B45RB1RV-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/41Dbd5mjnfL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/41Dbd5mjnfL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Must-have 👙 Jockey Women&apos;s Hipster</title>
+      <description>Stay cool and comfortable this summer with Jockey&apos;s high coverage hipster. Made from super combed cotton, it&apos;s a must-have for everyday wear. Worth buying for its Stay Fresh Treatment and concealed waistband. Get it now for ₹449.00! Click to buy and beat the heat in style
+
+summer fashion trends affordable fashion women&apos;s hipster jockey india women&apos;s clothing online shopping summer essentials indian summer</description>
+      <link>https://viraldeals-in.github.io/go/B010FMJKFS</link>
+      <guid isPermaLink="false">B010FMJKFS-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/61bMkDF97VL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/61bMkDF97VL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Worth Buying: 💃 Lightweight Kurta Set!</title>
+      <description>Stay cool and stylish this summer with KLOSIA Women&apos;s Rayon Printed Anarkali Kurta and Pant with Dupatta Set. Made from breathable rayon, this set is perfect for hot days. With over 4.2 stars and 6431 reviews, it&apos;s a must-have for your summer wardrobe. Get it now for ₹799.00!
+
+lightweight kurtas summer fashion trends affordable fashion women&apos;s wear anarkali kurta indian clothing summer essentials</description>
+      <link>https://viraldeals-in.github.io/go/B0FDW55HNT</link>
+      <guid isPermaLink="false">B0FDW55HNT-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/71I53evweVL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/71I53evweVL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Worth buying: Comfortable Bra 🛍️</title>
+      <description>Stay cool and comfortable this summer with TRYLO Riza T-FIT Women&apos;s Bra. Made from 100% cotton feel fabric, this non-padded, non-wired bra provides full coverage and a seamless fit. Perfect for everyday wear, it&apos;s a must-have for any woman&apos;s wardrobe. Shop now and beat the heat in style! 
+
+summer fashion trends affordable fashion women&apos;s bra seamless bra full coverage bra comfortable bra indian summer essentials</description>
+      <link>https://viraldeals-in.github.io/go/B0CKBXTPL1</link>
+      <guid isPermaLink="false">B0CKBXTPL1-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/71ydkNXsPTL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/71ydkNXsPTL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Must-Have Polo T-Shirt 🛍️</title>
+      <description>Stay cool and stylish this summer with Allen Solly&apos;s premium polo t-shirt. Made from a rich cotton blend, this regular fit t-shirt is perfect for all-day wear. With its comfortable design and affordable price, it&apos;s a summer fashion trend worth buying. Get yours now and beat the heat in style! 👉 Click to buy
+
+mens fashion summer essentials polo tshirts allen solly affordable fashion stylish wear indian summer fashion trend</description>
+      <link>https://viraldeals-in.github.io/go/B06Y2FG6R7</link>
+      <guid isPermaLink="false">B06Y2FG6R7-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/71eUwDk8z+L._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/71eUwDk8z+L._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>🎧 Worth Buying: Portronics Earphones</title>
+      <description>Get the best audio experience with Portronics Conch Theta C Earphones, featuring 14.2mm drivers and in-line HD mic. With 4.1-star rating and over 8200 reviews, these earphones actually work! Stay cool and enjoy your favorite music this summer with these affordable earphones. Buy now on Amazon!
+
+portronics earphones best earphones under 500 affordable earphones with mic earphones with good sound quality summer essentials music lovers amazon deals</description>
+      <link>https://viraldeals-in.github.io/go/B0DDHM6D3L</link>
+      <guid isPermaLink="false">B0DDHM6D3L-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/51GGwjwSr0L._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/51GGwjwSr0L._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Must-Have Kids&apos; Books 📚</title>
+      <description>Give your little ones the gift of knowledge with My First Library: Boxset of 10 Board Books for Kids. This set includes essential learning books like ABC, Numbers, Shapes, and more. Perfect for summer learning, it&apos;s an affordable and engaging way to keep your kids cool and entertained at home. Buy now and spark their love for reading! Click to check the price and reviews.
+
+kids books best books for kids childrens books board books for kids summer learning kids education affordable kids books mus</description>
+      <link>https://viraldeals-in.github.io/go/9387779262</link>
+      <guid isPermaLink="false">9387779262-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/81p1nkYo4NL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/81p1nkYo4NL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Must-have Cute Dog Toy 🐶</title>
+      <description>Bring home this adorable Babique Dog Plush Soft Toy, perfect for kids and home decor. Made of soft material, this toy is a must-have for any child. Get it now at an affordable price of ₹149.00. Worth buying for its cuteness and quality, this toy is sure to delight your little ones. Shop now and add a touch of fun to your home decor!
+
+dog toys india affordable toys online cute plush toys kids toys home decor items under 200 soft toys for kids baby toys online india</description>
+      <link>https://viraldeals-in.github.io/go/B0B2F8XS9L</link>
+      <guid isPermaLink="false">B0B2F8XS9L-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/41Z37AWyjHL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/41Z37AWyjHL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Best Dumbbells Under ₹300 🏋️</title>
+      <description>Get fit at home with Lifelong PVC Hex Fixed Dumbbells. Worth buying for an effective workout, these dumbbells are perfect for home gym equipment. Stay cool while exercising indoors and beat the heat with a great deal. Buy now and start your fitness journey!
+
+home gym equipment fitness barbell gym exercise home workout dumbbells for men dumbbells for women fitness goals workout at home stay fit</description>
+      <link>https://viraldeals-in.github.io/go/B09W5LHL7G</link>
+      <guid isPermaLink="false">B09W5LHL7G-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/51+b9IWWbjL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/51+b9IWWbjL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Must-have Kitchen Essential 🧹</title>
+      <description>Stay cool in the kitchen with Beco Reusable Kitchen Towel Roll! Soft, absorbent, and washable 2000 times. Say goodbye to disposable dishcloths and tissues. Affordable and eco-friendly, this is a deal you shouldn&apos;t miss! Buy now and make a smart addition to your Home Decor items under 999. Click to know more!
+
+Kitchen Essentials Home Decor Items Under 999 Reusable Towels Eco Friendly Products Kitchen Must Haves Affordable Home Decor Summer Essentials</description>
+      <link>https://viraldeals-in.github.io/go/B07PJQX981</link>
+      <guid isPermaLink="false">B07PJQX981-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/614AH2GZ6zL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/614AH2GZ6zL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Must-have Fabric Softener! 🛍️</title>
+      <description>Stay cool and fresh this summer with Comfort Morning Fresh Fabric Conditioner. This refill pack ensures your clothes feel soft and smell great after every wash. Worth buying for its long-lasting fragrance and shine. Get it now and beat the heat with fresh clothes! Buy on Amazon
+
+fabric softener india summer essentials comfort morning fresh laundry essentials soft clothes fresh smell beat the heat</description>
+      <link>https://viraldeals-in.github.io/go/B07F8H9NYY</link>
+      <guid isPermaLink="false">B07F8H9NYY-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/81hjfHDwDXL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/81hjfHDwDXL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Must-have Mosquito Net 🛏️</title>
+      <description>Keep your home cool and mosquito-free this summer with our classic foldable mosquito net. Made of strong 30GSM polyester, it&apos;s perfect for double beds and king size beds. Worth buying for its durability and ease of use. Get it now and stay protected! Consider it one of the essential home decor items under 999 for a peaceful sleep.
+
+mosquito net india summer essentials home decor items under 999 bed nets for double bed king size mosquito net affordable home decor must have home items</description>
+      <link>https://viraldeals-in.github.io/go/B00JD8EA1U</link>
+      <guid isPermaLink="false">B00JD8EA1U-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/61IOb4Nu6AL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/61IOb4Nu6AL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Must-Have Mosquito Net ⚡️</title>
+      <description>Keep mosquitoes at bay with LifeKrafts Polyester Magnetic Mosquito Net. Easy to install, auto-closing, and suitable for all door types. Perfect for home decor items under 999, this net is a worthwhile investment for a comfortable summer. Buy now and stay cool! 🌞
+
+Home Decor Items Summer Essentials Mosquito Net Door Screen Magnetic Net Auto Closing Net Polyester Net Affordable Home Solutions Summer Must Haves</description>
+      <link>https://viraldeals-in.github.io/go/B07YWZMJFP</link>
+      <guid isPermaLink="false">B07YWZMJFP-1777390482415</guid>
+      <pubDate>Tue, 28 Apr 2026 15:33:56 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/71cRik9djML._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/71cRik9djML._SL1500_.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
