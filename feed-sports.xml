@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ViralDeals - Sports &amp; Fitness</title>
+    <link>https://viraldeals-in.github.io/</link>
+    <atom:link href="https://viraldeals-in.github.io/feed-sports.xml" rel="self" type="application/rss+xml"/>
+    <description>Curated trending sports &amp; fitness from Amazon India, updated daily.</description>
+    <language>en-in</language>
+    <lastBuildDate>Wed, 29 Apr 2026 06:04:17 +0000</lastBuildDate>
+    <item>
+      <title>Best Home Gym Equipment Under ₹300 in India 💪</title>
+      <description>Stay fit and active at home with the Lifelong PVC Hex Fixed Dumbbells Pack of 2, perfect for those who want to work out comfortably without breaking the bank. This affordable gym equipment is a must-have for Indians with a passion for fitness, and its quality construction ensures durability for years to come. Get the best home gym experience without overspending on gym memberships. Buy now on Amazon!
+
+#fitnessmotivation #indianfitness #amazonindia</description>
+      <link>https://viraldeals-in.github.io/go/B09W5LHL7G</link>
+      <guid isPermaLink="false">B09W5LHL7G-1777442657874</guid>
+      <pubDate>Wed, 29 Apr 2026 06:04:07 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/51+b9IWWbjL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/51+b9IWWbjL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Stay Fit at Home with Best Forearm Strengtheners in India 🏋️</title>
+      <description>Beat the summer heat with a great workout at home. The Boldfit Hand Gripper is a must-have for building forearm, wrist, and finger strength. As an Indian buyer, you&apos;ll appreciate that this fitness equipment is perfect for home use, and with over 35,000 reviews, you can trust its effectiveness. So, get ready to take your fitness journey to the next level!
+
+#fitnessmotivation #handgrip #workoutathome</description>
+      <link>https://viraldeals-in.github.io/go/B0B77X44MX</link>
+      <guid isPermaLink="false">B0B77X44MX-1777442657874</guid>
+      <pubDate>Wed, 29 Apr 2026 06:04:07 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/61Av1lptLkL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/61Av1lptLkL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>
