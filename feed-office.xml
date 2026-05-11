@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ViralDeals - Office Essentials</title>
+    <link>https://viraldeals-in.github.io/</link>
+    <atom:link href="https://viraldeals-in.github.io/feed-office.xml" rel="self" type="application/rss+xml"/>
+    <description>Curated trending office essentials from Amazon India.</description>
+    <language>en-in</language>
+    <lastBuildDate>Mon, 11 May 2026 12:01:07 +0000</lastBuildDate>
+    <item>
+      <title>Best Summer Smartphone for Office and Gym 💻</title>
+      <description>Beat the heat with India&apos;s slimmest smartphone, iQOO 15R, featuring a massive 7600mAh battery, snappy Snapdragon 8 Gen 5 processor, and a stunning Triumph Silver finish. Perfect for staying connected at the office and tracking your fitness goals at the gym. Worth buying for all your summer needs!
+
+#SummerSale #BestSmartphones #OfficeEssentials</description>
+      <link>https://viraldeals-in.github.io/go/B0GL8NJDG5</link>
+      <guid isPermaLink="false">B0GL8NJDG5</guid>
+      <pubDate>Mon, 11 May 2026 12:01:03 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/61D48zQmROL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/61D48zQmROL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Back to Work Essentials! 📚</title>
+      <description>Get ready for the new academic session or office hours with our Supreme Deals Canvas Premium Pencil Case, designed especially for girls. This 6-layer, 3-compartment pencil case offers ample space for all your stationery needs and adds a touch of cute aesthetic design to your study or office desk. Say goodbye to clutter and hello to organizational bliss! Worth investing in, especially for the ones who love to stay organized and focused...
+
+#BackToSchoolEssentials #OrganizeYourSpace #StudySavvy</description>
+      <link>https://viraldeals-in.github.io/go/B0DBF8S3HB</link>
+      <guid isPermaLink="false">B0DBF8S3HB</guid>
+      <pubDate>Mon, 11 May 2026 12:01:03 +0000</pubDate>
+      <media:content url="https://images-eu.ssl-images-amazon.com/images/I/71a9rKgxQfL._SL1500_.jpg" medium="image" />
+      <enclosure url="https://images-eu.ssl-images-amazon.com/images/I/71a9rKgxQfL._SL1500_.jpg" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>
